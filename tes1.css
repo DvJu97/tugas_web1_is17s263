@@ -1,0 +1,29 @@
+
+.pic{
+	margin: 50px 200px 0 100px;
+	background-image: url("pic1.jpg");
+	width: 100%;
+	height: 800px;
+}
+.pic-but{
+	margin-top: 700px;
+	margin-left: 450px;
+}
+
+.picc{
+	margin: 50px 200px 0 100px;
+	background-image: url("pic4.jpg");
+	width: 100%;
+	height: 800px;
+}
+.pic-butt{
+	margin-top: 410px;
+	margin-left: 150px;
+	float: left;
+}
+
+body{
+	background-color: #f7f7f7 !important;
+}
+
+
